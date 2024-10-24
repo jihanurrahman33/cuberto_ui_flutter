@@ -1,6 +1,6 @@
 # cuberto_ui_flutter
 
-A new Flutter project.
+Practice project to practice dart,flutter,api,getx state management.
 
 ## Getting Started
 
